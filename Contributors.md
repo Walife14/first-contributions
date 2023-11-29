@@ -37,6 +37,7 @@
 - [Ayush Sharma](https://github.com/meAyushSharma)
 - [Bekpolat Aydarbaev](https://github.com/Bekforever13)
 - [Asi Sasi](https://github.com/ASP2017)
+- [Lucas](https://github.com/Walife14)
 - [Kishore Rajkumar](https://github.com/tech-kishore)
 - [PushoDev](https://github.com/PushoDev)
 - [Shakib Aghili](https://github.com/shakib-A)
